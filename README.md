@@ -13,8 +13,8 @@ Dependencies
 * [PlayerNSD][2] (tested with 0.0.1)
 * [NS3][3] (tested with tip)
 
- [1]: http://github.com/raedwulf/playernsd
- [2]: http://www.cmake.org/
+ [2]: http://github.com/raedwulf/playernsd
+ [1]: http://www.cmake.org/
  [3]: http://www.nsnam.org/
 
 Building
